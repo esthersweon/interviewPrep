@@ -11,7 +11,9 @@
 //   "I": [],
 //   "J": [],
 // }
+
 // depthFirstSearch(graph, "A"); // ["A", "B", "E", "D", "I", "J", "F", "C", "G", "H"]
+
 export default function depthFirstSearch(
   graph: Record<string, string[]>,
   source: string,
@@ -35,3 +37,5 @@ export default function depthFirstSearch(
   });
   return result;
 }
+
+// Time Complexity: O(V + E)
