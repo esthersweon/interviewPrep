@@ -24,8 +24,5 @@ Networks like social media, GPS locations, and the internet (i.e. web graph with
 - Traversal
   - **BFS** (Breadth-First Search)
   - **DFS** (Depth-First Search)
-    - **Preorder** – Node → Left → Right
-    - **Inorder** – Left → Node → Right
-    - **Postorder** – Left → Right → Node
 - **Dijkstra's** – Find the shortest / cheapest route between nodes (used in GPS)
 - **Cycle Detection** – Identify loops in a network
