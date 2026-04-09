@@ -61,6 +61,7 @@ export default class Heap {
       }
     }
   }
+
   getMax() {
     return this.arr[0];
   }
