@@ -8,7 +8,7 @@ Graphs are non-linear data structures composed of nodes (**vertices**) and conne
 
 ### Applications
 
-Networks like social media, GPS locations, and the internet (i.e. web graph with pages and hyperlinks).
+Networks like social media, GPS locations, and the internet (i.e. web graph with pages and hyperlinks)
 
 ### Representations
 
