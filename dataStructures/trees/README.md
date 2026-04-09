@@ -1,6 +1,6 @@
 # Trees
 
-Trees are hierarchical, non-linear data structure composed of **nodes** connected by **edges**, with a single **root** node and no cycles.
+Trees are hierarchical and non-linear data structures composed of **nodes** connected by **edges**, with a single **root** node and no cycles.
 
 Leaf: A node with no children (bottom-most nodes).
 Height/Depth: Height is the number of edges to the furthest leaf; depth is the number of edges from the root.
